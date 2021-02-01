@@ -24,9 +24,7 @@ double *percent_snow_g; // percentage of snow on ground
 double *depth_water, *depth_snow; // depth of water and snow on ground, after rainfall and snowfall stage 1, before evaporation. output after substracting evapo
 double *mass_water_g,*mass_snow_g; // mass of water and snow on ground, output after substracting evapo
 double density_snow;//from snowpack stage 1
-
 double swc_g, porosity_g; // soil water content (from last step) and porosity on ground
-
 double *evapo_soil, *evapo_water_g, *evapo_snow_g; // evaporation from soil, evaporation of pond water and snow on surface
 //double length_step; // length of step
 

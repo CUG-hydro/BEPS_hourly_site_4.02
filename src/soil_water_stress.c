@@ -13,7 +13,7 @@ Written by: Weiming Ju
 *********************************************************************/
 # include "stdio.h"
 # include "stdlib.h"
-#include "debug.h"
+// #include "debug.h"
 #include "soil.h" // added by LHE.
 #include <math.h>
 
